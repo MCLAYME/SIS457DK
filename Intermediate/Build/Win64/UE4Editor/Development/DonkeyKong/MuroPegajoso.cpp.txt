@@ -1,0 +1,5 @@
+C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\Definitions.DonkeyKong.h
+C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Source\DonkeyKong\MuroPegajoso.h
+C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Source\DonkeyKong\Muro.h
+C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong\Muro.generated.h
+C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong\MuroPegajoso.generated.h

@@ -1,0 +1,5 @@
+C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\Definitions.DonkeyKong.h
+C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Source\DonkeyKong\BombaNave.h
+C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong\BombaNave.generated.h
+C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Source\DonkeyKong\Nave.h
+C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong\Nave.generated.h

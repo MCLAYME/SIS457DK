@@ -1,0 +1,39 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DonkeyKong-2992.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\DonkeyKongEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\BombaNave.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\Capsula.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\Compuertas.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\DonkeyKong.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\DonkeyKongCharacter.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\DonkeyKongGameMode.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\Muro.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\MuroCongelado.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\MuroElectrico.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\MuroLadrillo.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\MuroPegajoso.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\Nave.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\Plataformas.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\Proyectil.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\BombaNave.gen.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\Capsula.gen.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\Compuertas.gen.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\DonkeyKong.init.gen.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\DonkeyKongCharacter.gen.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\DonkeyKongGameMode.gen.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\Muro.gen.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\MuroCongelado.gen.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\MuroElectrico.gen.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\MuroLadrillo.gen.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\MuroPegajoso.gen.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\Nave.gen.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\Plataformas.gen.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\Proyectil.gen.cpp.obj"
+"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\Default.rc2.res"
+/OUT:"C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\UE4Editor-DonkeyKong-2992.lib"

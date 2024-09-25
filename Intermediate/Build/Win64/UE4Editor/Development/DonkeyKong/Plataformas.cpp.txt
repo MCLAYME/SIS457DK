@@ -1,0 +1,3 @@
+C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong\Definitions.DonkeyKong.h
+C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Source\DonkeyKong\Plataformas.h
+C:\Users\Miguel\Documents\Unreal Projects\DonkeyKong\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong\Plataformas.generated.h
